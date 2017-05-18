@@ -1,12 +1,10 @@
-# Algorithms and Data Structures in Ruby #
-> ###Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms) & [Ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
+# Algorithms and Data Structures in Ruby 
+> ### Featured on [Awesome-algorithms](https://github.com/tayllan/awesome-algorithms) & [Ruby-bookmarks](https://github.com/dreikanter/ruby-bookmarks)
 
 This repository contains Ruby implementation of various Algorithms and Data structures and
-solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com/)
+solution of many challenges of [HackerRank](https://www.hackerrank.com) and [Codility](https://codility.com)
 
-If you are a Javascript lover visit this awesome repository of @madmantalking [js-algorithms](https://github.com/madmantalking/js-algorithms)
-
-## Content : ##
+## Content : 
 * [Searching](#searching)
 * [Sorting](#sorting)
 * [Arrays](#arrays)
@@ -18,7 +16,8 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 * [Codility](#codility)
 
 <a name="searching"/>
-### Searching ###
+
+### Searching 
 1. [Binary Search](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/searching/BinarySearch.rb)
 2. [Ubiquitous Binary Search (Binary search implementation with various applications)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/searching/UbiquitousBinarySearch.rb)
 3. Problems based on Binary Search
@@ -34,7 +33,8 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
     * [Find the median of two sorted array of equal size](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MedianOf2SortedArrays.rb)
 
 <a name="sorting"/>
-### Sorting ###
+
+### Sorting 
 
 1. [Bubble Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/BubbleSort.rb)
 2. [Optimized Bubble Sort](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/sorting/BubbleSortOptimized.rb)
@@ -50,7 +50,8 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 12. [Sort a given array by frequency of elements](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SortArrayByFrequency.rb)
 
 <a name="arrays"/>
-### Arrays ###
+
+### Arrays 
 
 1. [Swapping two numbers](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/SwappingTwoNumbers.rb)
 2. [Algorithm for reversing an array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ReverseAnArray.rb)
@@ -112,7 +113,8 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 42. [Given an array array, find the maximum j – i such that the element later is bigger](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/MaxJminusI.rb)
 
 <a name="hashing"/>
-### Hashing ###
+
+### Hashing
 
 1. [Find pair in array with sum equal to given value(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenSum.rb)
 2. [Find pair in array with difference equal to given value(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/ChekPairWithGivenDiff.rb)
@@ -120,12 +122,14 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 4. [Print all distinct elements of given array(Approach 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/PrintDistinct.rb)
 
 <a name="stacks"/>
-### Stacks ###
+
+### Stacks
 
 1. [Print Next Greatest Element for each element of array](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/NextGreatestElement.rb)
 
 <a name="bitAlgo"/>
-### Bit Algorithms ###
+
+### Bit Algorithms
 
 1. [Check if a given number is power of 2 or not](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckForPowerOfTwo.rb)
 2. [Check if a given number is even or odd](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/bitAlgorithms/CheckIfEvenOrOdd.rb)
@@ -135,7 +139,8 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 6. [Find two repeating elements in given array(Approach 4)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
  
 <a name="maths"/>
-### Mathematics ###
+
+### Mathematics
 
 1. [Fast multiplication of two numbers(Russian Peasant Multiplication)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/FastMultiplication.rb)
 2. [Babylonian Method to find Square root of a number ](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/mathematics/BabylonianMethodSqrt.rb)
@@ -143,10 +148,12 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 3. [Find two repeating elements in given array(Approach 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/arrays/FindTwoRepeatingElem.rb)
 
 <a name="hackerrank"/>
-### [Hacker Rank](https://www.hackerrank.com/) ###
-#### Algorithms ####
 
-##### Warm up #####
+### [Hacker Rank](https://www.hackerrank.com/)
+
+#### Algorithms
+
+##### Warm up
 1. [A Very Big Sum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/AVeryBigSum.rb)
 2. [Diagnol Difference](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/DiagnolDifference.rb)
 3. [Plus Minus](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/PlusMinus.rb)
@@ -156,7 +163,7 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 7. [Time Conversion](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/warmup/TimeConversion.rb)
 
 
-##### Implementation #####
+##### Implementation
 1. [Angry Professor](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/AngryProfessor.rb)
 2. [Chocolate Feast](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/ChocolateFeast.rb)
 3. [Cut The Sticks](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/CutTheSticks.rb)
@@ -166,32 +173,33 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 7. [Sherlock And The Beast](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/SherlockAndTheBeast.rb)
 8. [Utopian Tree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/algorithms/implementation/UtopianTree.rb)
 
-##### Others #####
+##### Others
 1.[Modified Kaprekar Number](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/hackerRank/ModifiedKaprekarNumber.rb)~New approach added by [@madmantalking](https://github.com/madmantalking)
 
 <a name="codility"/>
-### [Codility](https://codility.com/) ###
 
-#### [Lessons](https://codility.com/programmers/lessons/) ####
+### [Codility](https://codility.com/)
 
-##### Iterations #####
+#### [Lessons](https://codility.com/programmers/lessons/)
+
+##### Iterations
 
 * [BinaryGap](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Iterations/BinaryGap.rb)
 
-##### Arrays #####
+##### Arrays
 
 * CyclicRotation
   * [Reversal Algorithm(Solution 1)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/CyclicRotation.rb)
   * [Juggling Algorithm(Solution 2)](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/CyclicRotation1.rb)
 * [OddOccurencesInArray](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Arrays/OddOccurencesInArray.rb)
 
-##### Time-complexity #####
+##### Time-complexity
 
 * [FrogJmp](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Time%20Complexity/FrogJmp.rb)
 * [PermMissingElem](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Time%20Complexity/PermMissingElem.rb)
 * [TapeEquilibrium](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Time%20Complexity/TapeEquilibrium.rb)
 
-##### Counting Elements #####
+##### Counting Elements
 
 * [FrogRiverOne](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/FrogRiverOne.rb)
 * MaxCounters
@@ -200,7 +208,7 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
 * [MissingInteger](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/MissingInteger.rb)
 * [PermCheck](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Counting%20Elements/PermCheck.rb)
 
-##### Prefix Sums #####
+##### Prefix Sums
 
 * [CountDiv](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/CountDiv.rb)
 * [MinAvgTwoSlice](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/MinAvgTwoSlice.rb)
@@ -208,32 +216,32 @@ If you are a Javascript lover visit this awesome repository of @madmantalking [j
     * [Solution 1](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/PassingCars.rb)
     * [Solution 2](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prefix%20Sums/PassingCars1.rb)
     
-##### Sorting #####
+##### Sorting
 
 * [Distinct](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Sorting/Distinct.rb)
 * [MaxProductofThree](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Sorting/MaxProductofThree.rb)
 * [Triangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Sorting/Triangle.rb)
 
-##### Stacks and Queues #####
+##### Stacks and Queues
 
 * [Fish](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Stacks%20and%20Queues/Fish.rb)
 * [Brackets](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Stacks%20and%20Queues/Brackets.rb)
 * [Nesting](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Stacks%20and%20Queues/Nesting.rb)
 
-##### Leader #####
+##### Leader
 
 * [Dominator](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Leader/Dominator.rb)
 
-##### Maximum Slice Problem #####
+##### Maximum Slice Problem
 
 * [MaxDoubleSliceSum](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Maximum%20Slice%20Problem/MaxDoubleSliceSum.rb)
 
-##### Prime and Composite numbers #####
+##### Prime and Composite numbers
 
 * [CountFactors](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/CountFactors.rb)
 * [MinPerimeterRectangle](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/Prime%20and%20composite%20numbers/MinPerimeterRectangle.rb)
 
-##### Others #####
+##### Others
 
 * [Find the length of smallest array with the same binarian value](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby/blob/master/codility/LengthOfShortestBinarian.rb)
 
