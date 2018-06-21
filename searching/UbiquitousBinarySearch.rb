@@ -19,6 +19,8 @@ def ubiquitous_binary_search(a,key) # a is the array and key is the value we wan
     
     if (a[lo]== key)
         return lo
+    elsif (a[hi]== key)
+        return hi
     else
         return "value not found"
     end
