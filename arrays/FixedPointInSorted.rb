@@ -4,6 +4,11 @@ Fixed Point in an array is an index i such that arr[i] is equal to i, i.e. a[i]=
 Time-complexity: O(logn)
 Space-complexity: O(1)
 Algorithm: Binary Search
+
+Disclaimer: The solution will only have 2 possibilities 
+1) The mid value arr[mid] 
+2) "No fixed point".  
+The solution is not concerned about the first occurrence of the fixed point.
 =end
 
 def fixed_point(a)
